@@ -1,5 +1,7 @@
 # Picaviva
 
+![Picaviva](picaviva-screenshot.png)
+
 Download packages for **Picaviva**, a Windows desktop app for local photos, videos and music.
 
 ## Download
@@ -20,7 +22,8 @@ SHA-256 checksums are published on the download page.
 
 ## System requirements
 
-- Windows 10 (version 1607 or later) or Windows 11, 64-bit. Earlier Windows versions are not supported and the app will not start.
+- Windows 10 (version 1607 or later) or Windows 11, 64-bit.
+  Earlier Windows versions are not supported and the app will not start.
 - Portable — unzip and run, no installation required
 
 ## License key
