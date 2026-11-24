@@ -8,15 +8,9 @@ Download packages for **Picaviva**, a Windows desktop app for local photos, vide
 
 Full-featured free edition — no registration required.
 
-Latest build: [Releases](../../releases) · What's new: [changelog](https://picaviva.com/changelog.html)
+Latest build: [Download the latest release](../../releases/latest) · What's new: [changelog](https://picaviva.com/changelog.html)
 
 Official page: [picaviva.com/download.html](https://picaviva.com/download.html)
-
-Direct link pattern:
-
-```
-https://github.com/172986686/picaviva/releases/download/v1.0.8/Picaviva-1.0.8-win64.zip
-```
 
 SHA-256 checksums are published on the download page.
 
