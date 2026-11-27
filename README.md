@@ -2,7 +2,7 @@
 
 ![Picaviva](picaviva-screenshot.png)
 
-Download packages for **Picaviva**, a Windows desktop app for local photos, videos and music.
+Download packages for **Picaviva**, a Picasa alternative for Windows — a local photo, video and music manager.
 
 ## Download
 
